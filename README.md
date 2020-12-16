@@ -22,9 +22,9 @@ Endpoints:
 
 
 Request Body
-```json 
+```json5
 {
-    data: “JOHN0000MICHAEL0009994567”
+  data: "JOHN0000MICHAEL0009994567"
 }
 ```
 
